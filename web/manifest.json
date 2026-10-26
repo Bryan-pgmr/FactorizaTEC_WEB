@@ -1,7 +1,7 @@
 {
-  "name": "Factorización Algebraica",
-  "short_name": "Factorización",
-  "description": "App educativa de factorización algebraica — COBAEV 42",
+  "name": "FactorizaTEC",
+  "short_name": "FactorizaTEC",
+  "description": "App educativa de factorización algebraica",
   "lang": "es-MX",
   "start_url": ".",
   "scope": ".",
